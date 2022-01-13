@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
-ipython==7.16.1
+ipython==7.23.1
     # via -r requirements.in
 matplotlib==3.3.3
     # via -r requirements.in
